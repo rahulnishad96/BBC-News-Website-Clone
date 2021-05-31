@@ -1,0 +1,562 @@
+#topbar
+        {
+            max-width : 1300px;
+            margin : 0 auto;
+            height: 40px;
+            text-align: center;
+        }
+        
+        body
+        {
+            margin : 0;
+            padding : 0;
+            font-family: Arial, Helvetica, sans-serif;
+            min-width: 1300px;
+        }
+        .bbclogo
+        {
+            width:84px;
+            height:24px;
+            float:left;
+            padding: 8px 15px 0px 15px;
+        }
+        #leftborder
+        {
+            border-left:1px solid grey;
+            height:40px;
+            float:left;
+            margin: 0px;;
+        }
+        .signphoto
+        {
+            width: 33px;
+            padding: 8px 0px 0px 10px;
+        }
+        .signin
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            font-size: 14px;
+            padding:15px 80px 4px 0px;
+            float: left;
+            color: black;
+            
+        }
+        .signin:hover
+        {
+            
+            border-bottom: 5px solid black;
+        }
+        .menu
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            font-size: 14px;
+            padding:15px 25px 5px 25px;
+            float: left;
+            color: black;
+        }
+        .menu:hover
+        {
+            
+            border-bottom: 5px solid black;
+        }
+        .arrow
+        {
+            width : 11px;
+            padding: 20px 10px 0px 30px;
+        }
+        .search
+        {
+            background-color:#E4E4E4;
+            border:none;
+            margin: 10px 0px 0px  10px;
+            padding: 10px 0px 10px 15px;
+            width:140px;
+            height:7px;
+            font-weight: bold;
+            float:left;
+        }
+        .searchimg
+        {
+            padding-top:10px;
+            height: 29px;
+            float:left;
+
+        }
+        .secondmenu1
+        {
+            height: 70px;
+            background-color:#BB1919;
+            width:100%;
+        }
+        .secondmenu2
+        {
+            background-color:#BB1919;
+            width:100%;
+            height: 21px;
+        }
+        .resizemenu
+        {
+            max-width : 1300px;
+            margin: 0px auto;
+            
+        }
+        .resizemenu2
+        {
+            max-width : 1300px;
+            margin: 0px auto;
+         
+        }
+        .h1class
+        {
+            float:left;
+            color: white;
+            font-size: 45px;
+            font-weight: normal;
+            padding: 0;
+            padding-top: 8px;
+            padding-left: 10px;
+            margin: 0;
+           
+        }
+        .home a
+        {
+            color:white;
+            font-size: 14px;
+            float:left;
+            padding: 0 12px;
+            text-decoration: none;
+            border-right: 1px solid grey;
+
+        }
+        #homex
+        {
+            padding-left: 0px;
+        }
+        a:hover
+        {
+            border-top: 5px;;
+            border-bottom: 5px solid white;
+        }
+        .clear
+        {
+            clear:both;
+        }
+        .more a
+        {
+            color:white;
+            font-size: 14px;
+            float:left;
+            padding: 0px 0px 0px 12px;
+            text-decoration: none;
+        }
+        .downarr
+        {
+            height:22px;
+        }
+        .beclear
+        {
+            height:1000px;
+            background-color: white;
+        }
+        .page-container
+        {
+            max-width : 1300px;
+            margin : 0 auto;
+        }
+        
+        .artical-title
+        {
+            width:258px;    
+            font-size: 24px;
+            float : left;
+            padding-right: 14px;
+
+        }
+        
+        .main-artical:hover h3
+        {
+           text-decoration: underline;
+           color:#1167A8;
+           
+            
+        }
+        
+        .artical-img
+        {
+            float:right;
+            padding-top: 10px;
+        }
+        .art-summay
+        {
+            font-size: 14px;
+            color: black;
+            opacity: 0.89;
+            display: block;
+            
+            
+        }
+        .content1
+        {
+            
+            width:245px;
+            height:280px;
+            color: black;
+            
+            float:left;
+        }
+        .main-artical
+        {
+            margin-left:15px;
+            width: 766px;
+            height: 280px;
+            float: left;
+            text-decoration: none;
+            color: black;
+            opacity: 0.95;  
+        }
+        .content2
+        {
+            
+            width:245px;
+            height:280px;
+            color: black;
+            float:left;
+            padding-left: 5px;
+        }
+        .title
+        {
+            opacity: 0.9;
+        }
+        .content1:hover h4
+        {
+            color:#1167A8;
+            text-decoration:underline;
+        }
+        .content2:hover h4
+        {
+            color:#1167A8;
+            text-decoration:underline;
+        }
+        
+        
+        .content3:hover h4
+        {
+            color:#1167A8;
+            text-decoration:underline;
+        }
+        .content3
+        {
+            
+            width:245px;
+            height:75px;
+            color: black;
+            float:left;
+            padding-left: 5px;
+        }
+        .mass-pas
+        {
+            
+            
+            float: right;
+            padding-top: 13px;
+            padding-right: 125px
+            
+        }
+        .watch-pos
+        {
+            float: left;
+            padding-top: 13px;
+        }
+        .second-content
+        {
+            height: 35px;
+        }
+        .sec-content1
+        {
+            text-decoration: none;
+            float: left;
+        }
+        #second_small
+        {
+            max-width : 1300px;
+            margin : 0 auto;
+            height: 50px;
+            float: left;
+            
+        }
+        .small_heading
+        {
+            float:left;
+            opacity: 0.9;
+            width: 210px;
+            padding-top:0;
+            margin-top: 0px;
+            text-decoration: none;
+            color:black;
+        }
+        .small_heading:hover h5
+        {
+            color:#1167A8;
+            text-decoration:underline;
+        }
+        .content4
+        {
+            height: 500px;
+        }
+        .main-article4
+        {
+            text-decoration: none;
+            color:black;
+            height:300px;
+            float: left;
+        }
+        .main-article4:hover 
+        {
+            color:#1167A8;
+            text-decoration: underline;
+        }
+        .article4
+        {
+            text-decoration: none;
+            color:black;
+            height:260px;
+            width:245px;
+            float: left;
+            padding-left: 15px;
+        }
+        .article4:hover h4
+        {
+            color:#1167A8;
+            text-decoration:underline;
+        }
+        .content5
+        {
+            height:170px;
+           
+        }
+        .article5
+        {
+            text-decoration: none;
+            color:black;
+            float: left;
+            
+        }
+        .article5:hover h4
+        {
+            color:#1167A8;
+            text-decoration:underline;
+        }
+        .article5_content
+        {
+            width:208px;
+            float: left;
+        }
+        .number
+        {
+            display: inline;
+            color:#BB1919;
+            font-size: 45px;
+            float: left;
+            margin: 0px;
+            padding-right: 10px;
+            
+        }
+        .full-story
+        {
+            text-decoration: none;
+            color: black;
+            float: left;
+        }
+        .full-story:hover h4
+        {
+            color: #1167A8;
+            text-decoration:underline;
+        }
+        .content6
+        {
+            height:170px;
+           
+        }
+        .article6
+        {
+            text-decoration: none;
+            color:black;
+            float: left;
+            
+        }
+        
+        .article6:hover h4
+        {
+            color:#1167A8;
+            text-decoration:underline;
+        }
+        .article6_content
+        {
+            width:358px;
+            float: left;
+        }
+        .last
+        {
+            height: 210px;   
+        }
+        .social-media1:hover .a1
+        {
+            opacity:0;
+            display: none;
+        }
+        .a2
+        {
+            opacity: 0;
+            display: none;
+        }
+        .social-media1
+        {
+            float: left;
+        }
+        .social-media1:hover .a2
+        {
+            opacity: 1;
+            display: inline;
+        }
+        .last-second
+        {
+            float: right;
+            width:255px;
+            height: 110px;
+            margin: 0;
+            padding: 0;
+        }
+        .mail
+        {
+            text-decoration: none;
+            color:black;
+            float: left;
+            margin:0;
+            padding: 0;
+            opacity: 0.85;
+        }
+        .mail:hover
+        {
+            color:#1167A8;
+            text-decoration:underline;
+        }
+        .last-secondp
+        {
+            font-family:Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            font-size: small;
+            opacity: 0.7;
+            display: inline;
+            float: left;
+        }
+        .last-secondp2
+        {
+            font-family:Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding:0;
+            font-size: small;
+            opacity: 0.7;
+            display: inline;
+            float: left;
+        }
+        .app
+        {
+            width:225px;
+            height:100px;
+            float:right;
+            margin-right:30px;
+            
+        }
+        .app:hover h5
+        {
+            color: #1167A8;
+            text-decoration:underline;
+        }
+        .mail1
+        {
+            text-decoration: none;
+            color:black;
+            float: left;
+            margin:0;
+            padding: 0;
+            opacity: 0.85;
+        }
+        .msg
+        {
+            width:240px;
+            height:100px;
+            float:right;
+            margin-right:30px;
+            
+        }
+        .msg:hover h5
+        {
+            color: #1167A8;
+            text-decoration:underline;
+        }
+        .last-border
+        {
+            height: 90px;
+            margin-right: 20px;
+            border-left: 1px solid black;
+            float: right;
+            opacity: 0.33;
+        }
+        .contact
+        {
+            height: 235px;
+            background-color:rgb(60, 60, 60);
+            width:100%;
+            opacity: 0.9;
+        }
+        .last-contact
+        {
+            max-width : 1300px;
+            margin : 0 auto;
+        }
+        .contact-title
+        {
+            width:190px;
+            height: 8px;
+           
+        }
+        .contact-title2
+        {
+            width:190px;
+            
+            
+        }
+        .contact-title:hover h5
+        {
+            text-decoration: underline;
+        }
+        .contact-title2:hover h5
+        {
+            text-decoration: underline;
+        }
+        .contact-border
+        {
+            height: 50px;
+            margin-right: 20px;
+            margin-top: 20px;
+            border-left: 1px solid white;
+            float: left;
+            opacity: 0.5;
+            display: inline;
+        }
+        .topic
+        {
+            text-decoration: none;
+            color:white;
+            float: left;
+            padding-right: 20px;
+            font-size: 13px;
+            display: inline;
+        }
+        .topic:hover
+        {
+            text-decoration: underline;
+        }
